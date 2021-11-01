@@ -1,0 +1,39 @@
+Aula 1
+O que é VCS? Version Control Software
+O que é controle de versão de software? Prática de rastrear e gerenciar alterações de controle de versões por meio de numerações diferentes.
+O que é Git? Software para controle de versão de arquivos localmente. Repositório Local.
+
+Aula 2
+O que é GitHub?
+- Plataforma de rede social para programadores.
+- Repositório Remoto com hospedagem de código fonte.
+- Issues, função colaborativa para detecção de problemas no código.
+- Forks, função criativa para alterar um código sem alterar a versão original.
+
+Aula 3
+Quem veio primeiro? Git
+História
+1985 - CVS (Centralizado, Open Source, Popular e Problemático)
+2000 - SVN (Centralizado, Open Source, Ainda ativo, CVS like)
+2000 - BitKeeper (Distribuido, Proprietário, Versão Comunidade, CVS free)
+2004 - SourcePuller (Engenharia Reversa, Recursos destravados
+2005 - Git (Distribuido, Open Source, Feito em 10 dias, Performance)
+2008 - Github (Proprietário, hospedagem de código, baseado em Git)
+2018 - Github foi coprado pela Microsoft
+
+Aula 4
+Instalação Google Chrome, Visual Studio, Git e GitHub Desktop
+
+Aula 5
+Criado repositório local e remoto com README.md.
+README.md atualizado no VScode, utilizando "Commit to main" e "Push origin" no Github Desktop.
+README.md atualizado, utilizando "Commit changes" no GitHub Web e "Pull orogin" no Github Desktop.
+Criado "New folder" e um "New file".
+
+Aula 6
+Instalações necessárias dentro do Linux
+
+Aula 7
+Repositório da aula (https://github.com/gustavoguanabara/git-github) aberto com o Github Desktop, clonado em meu repositório local.
+
+Aula 8
