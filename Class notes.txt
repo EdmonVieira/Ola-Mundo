@@ -44,5 +44,21 @@ O que é uma Issue? É um problema sem solução.
 O que é um Pull Request? É um problema já tratado após clonagem do software e aberto um fork com a solução.
 Criado uma issue, comentada, fechada e criado uma assinatura padrão.
 
-Aula 8
-...
+Aula Extra 3
+HTML é uma linguagem de marcação
+Guia da Linguagem Markdown (extensão .md) - https://www.markdownguide.org/
+- # ou = - Título
+- ## ou == - Título 1
+- --- ou *** - Linha de demarcação
+- **x** ou __x__ - Negrito
+- *x* ou _x_- Itálico
+- __*x*__ - Negrito e Itálico
+- 1. - cria lista numerada
+-  1. - cria sublista numerada
+- * - cria lista demarcada
+-  * - cria sublista demarcada
+- - [ ] - cria lista de tarefa
+- - [x] - cria lista de tarefa feita
+
+Indicação de livros:
+"Conhecendo o Git" - http://eustaquiorangel.com/tutorial-git
