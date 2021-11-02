@@ -22,7 +22,7 @@ História
 2018 - Github foi coprado pela Microsoft
 
 Aula 4
-Instalação Google Chrome, Visual Studio, Git e GitHub Desktop
+Instalado Visual Studio, Git e GitHub Desktop
 
 Aula 5
 Criado repositório local e remoto com README.md.
@@ -30,10 +30,19 @@ README.md atualizado no VScode, utilizando "Commit to main" e "Push origin" no G
 README.md atualizado, utilizando "Commit changes" no GitHub Web e "Pull orogin" no Github Desktop.
 Criado "New folder" e um "New file".
 
-Aula 6
+Aula Extra 1
 Instalações necessárias dentro do Linux
 
-Aula 7
+Aula 6
 Repositório da aula (https://github.com/gustavoguanabara/git-github) aberto com o Github Desktop, clonado em meu repositório local.
 
+Aula Extra 2
+Partindo de uma issue, vimos na pratica o versionamento de um projeto antigo e tivemos um spoiler sobre o conceito de fork.
+
+Aula 7
+O que é uma Issue? É um problema sem solução.
+O que é um Pull Request? É um problema já tratado após clonagem do software e aberto um fork com a solução.
+Criado uma issue, comentada, fechada e criado uma assinatura padrão.
+
 Aula 8
+...
