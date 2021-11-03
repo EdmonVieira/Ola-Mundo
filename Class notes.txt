@@ -59,6 +59,25 @@ Guia da Linguagem Markdown (extensão .md) - https://www.markdownguide.org/
 -  * - cria sublista demarcada
 - - [ ] - cria lista de tarefa
 - - [x] - cria lista de tarefa feita
+- ![xxx](https://xxx) - carrega imagens em .png,.jpeg
+- [xxx](https://xxx) - carrega link
+- Col1 | Col2 | Col3 - cria cabeçalho de tabela
+- ---|---|--- - cria tabela
+- xxx | xxx | xxx - insere dados na tabela
+- `x` - insere o texto de modo monoespaçado com fundo cinza
+- ```
+  num = int(input('Digite um valor:')
+  if num % 2 == 0:
+    print(f'O valor {num}) é PAR')
+  else:
+    print(f'O valor {num} é ÍMPAR')
+  ``` - insere o texto em formato de código
+- :vulcan_salute - insere emoticon
+- > - insere um reply
+- @ - faz menção a alguém
 
 Indicação de livros:
 "Conhecendo o Git" - http://eustaquiorangel.com/tutorial-git
+
+Aula 8
+...
