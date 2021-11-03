@@ -80,4 +80,4 @@ Indicação de livros:
 "Conhecendo o Git" - http://eustaquiorangel.com/tutorial-git
 
 Aula 8
-...
+Para segurança de conta, criado senha forte e cadastrado segund fator de autenticação.
