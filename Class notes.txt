@@ -82,7 +82,15 @@ Indicação de livros:
 "Conhecendo o Git" - http://eustaquiorangel.com/tutorial-git
 
 Aula 8
-Para segurança de conta, criado senha forte e cadastrado segundo fator de autenticação.
+Para segurança de conta, criado senha forte e cadastrado segund fator de autenticação.
+
+Aula 9
+Master - cerno do código
+Branch - versões em desenvolvimento, similares ao conceito de universos paralelos
+Merge - mergir a ramificação ao cerne do código
+
+Aula 10
+Hospedagem de sites de graça
 
 #2 Curso de Python 3 - Mundo 1
 
