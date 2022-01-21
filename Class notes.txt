@@ -114,3 +114,4 @@ primeiros_comandos.py
 - variável
 - objeto
 - atribuir valores a variável
+- formatar valores
