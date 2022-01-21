@@ -106,5 +106,11 @@ Aula 3
 - Consultamos a versão e o Zen do Python via prompt "Windowns + R" e comando "cmd"
 - Usamos o IDLE
 
-
-
+Aula 4
+primeiros_comandos.py
+- mensagem, número
+- delimitador ('' ou "")
+- função, operador (+-/*,)
+- variável
+- objeto
+- atribuir valores a variável
