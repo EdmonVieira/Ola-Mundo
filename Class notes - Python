@@ -1,0 +1,23 @@
+#2 Curso de Python 3 - Mundo 1
+
+Aula 1
+Porque ser um programador? Para melhorar o aprendizado rápido e o espirito de comunidade, ganhando autonomia, criatividade e agilidade na solução de problemas.
+Aula 2
+- De onde vem o Python? Em 1982, na capital da Holanda, Amsterdam, o estudante da CWI, Guido Van Hossum, trabalhava num projeto da liguagem ABC e em 1989 criou outra linguagem para resolver um problema da linguagem ABC.
+- O que é? Uma linguagem de propósito geral. Fácil e intuitivo. Multiplataforma. Batteries included. Livre. Organizada. Orientada a objeto. Cheio de bibliotecas.
+- Zen do Python - são as filosofias da linguagem
+Aula 3
+- Como funciona o Python? Como um dicionário ou interprete. (Interpretador)
+- Instalado "Windows installer (64-bit)" via link: https://www.python.org/downloads/release/python-3102/
+- Consultamos a versão e o Zen do Python via prompt "Windowns + R" e comando "cmd"
+- Usamos o IDLE
+
+Aula 4
+primeiros_comandos.py
+- mensagem, número
+- delimitador ('' ou "")
+- função, operador (+-/*,)
+- variável
+- objeto
+- atribuir valores a variável
+- formatar valores
