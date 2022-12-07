@@ -4,3 +4,5 @@
 #1 Curso de Git e GitHub
 
 #2 Curso de Python
+
+#3 Curso de MySQL
