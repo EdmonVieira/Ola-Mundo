@@ -1,0 +1,9 @@
+#3 Curso de MySQL
+
+Aula 1
+A origem dos bancos de dados.
+- Décade de 40 a 45 surgiram os primeiros computadores militares e acadêmicos, onde os dados erao armazenados em papel.
+- Fichas (Registros) eram armazenados em pastas (Tabelas) e as pastas em armários (Banco de dados)
+- Fichas em papel > arquivos sequenciais > arquivos de acesso direto > banco de dados
+- Do CODASYL surgiu a liguagem de programacao COBOL e a linguagem de exploracao SEQUEL, hoje conhecida como SQL
+- Modelo hierarquico > Modelo em rede > Modelo relacional
